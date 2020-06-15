@@ -1,0 +1,33 @@
+ReadMe for "Everaldo Kids"
+This is a theme for Sylpheed-Claws based on the "Kids" icons from Everaldo.
+http://www.everaldo.com.
+
+Version 0.6
+March 28th 2010: Added icons for marked folders and some message list icons, other some icons were replaced or scaled to 12x12 pixels.
+
+Version 0.5.1
+June 29th 2008: Removed faulty symbolic links and zero byte files from the theme.
+
+Version 0.5
+June 23rd 2008: Claws-Mail supports .png files that's why the xpm files have been replaced with png files. Some additional icons were added. Standard icons for menu and compose windows are included, as well as mime info icons.
+
+Version 0.4.2.1
+January 2nd 2008: Removed faulty symbolic links, added "spam_btn.xpm" (again!).
+
+Version 0.4.2
+November 1st 2007: Added "spam_btn.xpm", restored missing info file (.claws_themeinfo)
+
+Version 0.4.1
+January 20th 2007: Some icons for mime-types were missing, added an icon for attachments, renamed claws_icon.xpm to claws_mail_icon.xpm
+
+Version 0.4
+January 18th 2006. Added icons for 'trash_btn.xpm' and 'sylpheed_icon.xpm'.
+
+Changelog: 
+version 0.3
+April 3rd, 2004: First public release of "Everaldo Kids".
+
+Downloads: http://www.allroy.de/Downloads/
+
+Copyright: All icons were created by Everaldo, I just copied them to the right location and gave them the right names to display in Sylpheed-Claws. 
+Thomas Zell <tom@allroy.de>
