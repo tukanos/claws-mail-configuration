@@ -1,0 +1,9 @@
+* { font-family : "Dejavu Mono", Monospace; font-size : 13pt }
+
+body { background-color : #002b36 ! important ; color : #839496 ! important }
+
+blockquote { background-color : #002b36; color: #00F0DE; padding : 1em }
+
+blockquote>blockquote { background-color : #002b36; color: #00FF33 }
+
+blockquote>blockquote>blockquote { background-color : #002b36; color: #E9A300 }
